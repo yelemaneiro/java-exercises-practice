@@ -3,9 +3,9 @@ import javax.swing.*;
 public class Ej5JOptionPaneConSistemasNumericos {
     public static void main(String[] args) {
 
-        //Usando entrada de datos por ventana
-        //JOptionPane recibe un String, si se desea usar un número,
-        // debe castearse para convertirlo al tipo de dato o usar variables y luego hacer la conversión.
+        //Ejercicio 5: Usando entrada de datos por ventana JOptionPane recibe un String,
+        // si se desea usar un número, debe castearse para convertirlo al tipo de dato
+        // o usar variables y luego hacer la conversión.
         String numeroString = JOptionPane.showInputDialog(null, "Ingrese un número entero:");
 
         //** Manejo de excepciones **

@@ -1,6 +1,8 @@
 public class Ej4SistemasNumericos {
     public static void main(String[] args) {
 
+        //Ejercicio 4: conversión de números
+
         int numeroDecimal = 500;
         System.out.println("numeroDecimal = " + numeroDecimal);
 

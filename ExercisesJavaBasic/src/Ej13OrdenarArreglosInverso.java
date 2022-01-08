@@ -3,6 +3,9 @@ import java.util.Collections;
 
 public class Ej13OrdenarArreglosInverso {
     public static void main(String[] args) {
+
+        //Ejercicio 13: Ordenar arreglos parte 2
+
         String[] productos = {"Macbook Pro", "Samsung Galaxy", "Iphone 12",
                 "Escritorio", "Puerta", "Bicicleta", "Reloj inteligente"};
 

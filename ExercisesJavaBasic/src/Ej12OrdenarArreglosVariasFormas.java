@@ -2,8 +2,10 @@ import java.util.Arrays;
 
 public class Ej12OrdenarArreglosVariasFormas {
     public static void main(String[] args) {
-        String[] productos = new String[7];
 
+        //Ejercicio 12: Ordenar arreglos
+
+        String[] productos = new String[7];
         productos[0] ="Macbook Pro";
         productos[1] ="Samsung Galaxy";
         productos[2] ="Iphone 12";

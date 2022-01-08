@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Ej16ArregloBuscarNumero {
     public static void main(String[] args) {
+
+        //Ejercicio 16: Ingresar 10 números en un arreglo, solicitar un número a buscar y mostrarlo
+
         int[] arreglo = new int[10];
         Scanner teclado = new Scanner(System.in);
 

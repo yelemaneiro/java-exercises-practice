@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Ej11AnioBisiesto {
     public static void main(String[] args) {
 
+        //Ejercicio 11: Decir cuantos días tienen los meses del año e indicar si el año es bisiesto o no
+
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese el número del mes del 1 al 12:");
         int mes = teclado.nextInt();

@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Ej7DetalleDeFactura {
     public static void main(String[] args) {
 
+        //Ejercicio 7: Mostrar el total bruto, el impuesto y el monto final
+        // con impuesto de una factura de 2 productos
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese la descripción de su factura:");
         String descripcion = scanner.nextLine();

@@ -1,7 +1,7 @@
 public class Ej2Variables {
     public static void main(String[] args) {
 
-        //usando variables y aplicando métodos a variables
+        //Ejercicio 2: usando variables y aplicando métodos a variables
         String saludar = "Hola mundo";
         System.out.println(saludar);
 

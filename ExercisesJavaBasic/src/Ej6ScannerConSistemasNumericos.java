@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Ej6ScannerConSistemasNumericos {
     public static void main(String[] args) {
 
-        //Usando entrada de datos por consola
+        //Ejercicio 6: Usando entrada de datos por consola
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese un número entero:");
 

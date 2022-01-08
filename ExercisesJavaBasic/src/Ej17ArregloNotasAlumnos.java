@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Ej17ArregloNotasAlumnos {
     public static void main(String[] args) {
 
+        //Ejercicio 17: Usando arreglos realice un sistema de notas de 7 alumnos
+        // y muestre el promedio según su id o posición
+
         double [] claseMatematicas, claseHistoria, claseLenguaje;
         claseMatematicas = new double [7];
         claseHistoria = new double [7];

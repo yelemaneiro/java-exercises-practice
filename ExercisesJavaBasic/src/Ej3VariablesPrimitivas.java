@@ -1,7 +1,7 @@
 public class Ej3VariablesPrimitivas {
     public static void main(String[] args) {
 
-        // información de los números primitivos
+        // Ejercicio 3: información de los números primitivos
         System.out.println(" ");
         byte numeroByte = 127;
         System.out.println("numeroByte = " + numeroByte);

@@ -1,5 +1,8 @@
 public class Ej14OrdenamientoBurbuja {
     public static void main(String[] args) {
+
+        //Ejercicio 14: Ordenar un arreglo con ordenamiento burbuja
+
         String[] productos = {"Macbook Pro", "Xiaomi Redmi Note 10", "Iphone 12",
                 "Escritorio", "Puerta", "Bicicleta", "Reloj inteligente"};
 

@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class Ej10LoginConArreglos {
     public static void main(String[] args) {
 
-        //Manera sencilla de realizar un login usando For y arreglos
-        //*****Forma 1 de definir un arreglo:
+        //Ejercicio 10: Manera sencilla de realizar un login usando For y arreglos
+
+        //*****Forma 1 de definir un arreglo: Se comenta para mostrar la 2da forma de definir arreglo
      /* String[] usernames = new String[3];
         String[] passwords = new String[3];
         usernames [0] = "yele";

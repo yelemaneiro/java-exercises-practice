@@ -1,6 +1,8 @@
 public class Ej15CombinarDosArreglos {
     public static void main(String[] args) {
 
+        //Ejercicio 15: Combinar 2 arreglos en uno.
+
         //Se declaran 3 arreglos, 2 iguales y el otro que pueda contener
         //los elementos de dos primeros.
         int[] a, b, c;

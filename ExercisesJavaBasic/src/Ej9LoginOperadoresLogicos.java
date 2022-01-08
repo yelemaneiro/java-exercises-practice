@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ej9LoginOperadoresLogicos {
     public static void main(String[] args) {
 
-        //Manera sencilla de realizar un login usando if y operadores lógicos
+        //Ejercicio 9: Manera sencilla de realizar un login usando if y operadores lógicos
         String username = "yele";
         String password = "123456";
 

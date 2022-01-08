@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Ej18ArreglosParesImpares {
     public static void main(String[] args) {
 
+        //Ejercicio 18: ingresar 10 números en cualquier orden y luego
+        //mostrar los pares en un arreglo y los impares en otro
+
         //Se crean 3 arreglos, uno con todos los números desordenados solicitados
         //al usuario por consola, y en los otros dos se guardarán
         // los números pares y los impares respectivamente.
